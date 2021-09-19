@@ -1,0 +1,2 @@
+# AWS-Cloud-Security---Protecting-Resources-and-Data-in-the-Cloud
+In this project, I will deploy and assess a simple web application environment’s security posture. I will test the security of the environment by simulating an attack scenario and exploiting cloud configuration vulnerabilities. I'll also set up monitoring to identify suspicious behavior and vulnerable configurations and you will remediate the identified misconfigurations. Finally, i will tie it all together by proposing a DevOps build pipeline that includes security best practices.
