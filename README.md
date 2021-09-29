@@ -21,8 +21,7 @@ Refer to the below links to get the AWS CLI installed and configured in your loc
  
 [Configuring the CLI](https://docs.aws.amazon.com/cli/latest/userguide/cli-chap-configure.html)
  
-### Local setup of git and GitHub Repository
-You will need to clone or download [this GitHub repo](https://github.com/udacity/nd063-c3-design-for-security-project-starter) in order to work on and submit this project.
+
 
 ## Exercise 1 - Deploy Project Environment
  
