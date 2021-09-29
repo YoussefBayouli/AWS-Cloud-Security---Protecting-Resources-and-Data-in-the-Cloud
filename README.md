@@ -162,21 +162,17 @@ The AMIs specified in the cloud formation template exist in the us-east-1 (N. Vi
 Based on the architecture diagram, and the steps you have taken so far to upload data and access the application web service, identify at least 2 obvious poor practices as it relates to security. List these 2 practices, and a justification for your choices, in the text file named E1T4.txt.
  
 **Deliverables:** 
-- **E1T4.txt** - Text file identifying 2 poor security practices with justification. 
+- **poor practices from the diagram.txt** - Text file identifying 2 poor security practices with justification. 
  
 ## Exercise 2: Enable Security Monitoring
  
-**_Deliverables for Exercise 2:_**
-- **E2T2_config.png** - Screenshot of AWS Config showing non-compliant rules.
-- **E2T2_inspector.png** - Screenshot of AWS Inspector showing scan results.
-- **E2T2.png_securityhub.png** - Screenshot of AWS Security Hub showing compliance standards for CIS foundations.
-- **E2T2.txt** - Provide recommendations on how to remediate the vulnerabilities.
+
  
 ### Task 1: Enable Security Monitoring using AWS Native Tools
  
 First, we will set up security monitoring to ensure that the AWS account and environment configuration is in compliance with the CIS standards for cloud security.
  
-#### 1. Enable AWS Config (skip this step if you already have it enabled)  
+#### 1. Enable AWS Config  
  a. See below screenshot for the initial settings.   
  ![ConfigEnabled](config_enable.png)  
  b. On the Rules page, click **Skip**.  
@@ -200,7 +196,7 @@ a. After 1-2 hours, data will populate in these tools giving you a glimpse of se
  
 ### Task 2: Identify and Triage Vulnerabilities
  
-Please submit screenshots of:
+ required screenshots of:
 - AWS Config - showing non-compliant rules
 - AWS Inspector - showing scan results
 - AWS Security Hub - showing compliance standards for CIS foundations.
