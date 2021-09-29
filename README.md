@@ -1,17 +1,17 @@
 # Cloud Security - Secure the Recipe Vault Web Application
  
-In this project, you will:
+In this project, I :
  
-* Deploy and assess a simple web application environment’s security posture
-* Test the security of the environment by simulating attack scenarios and exploiting cloud configuration vulnerabilities
-* Implement monitoring to identify insecure configurations and malicious activity 
-* Apply methods learned in the course to harden and secure the environment
-* Design a DevSecOps pipeline
+* Deployed and assessed a simple web application environment’s security posture
+* Tested the security of the environment by simulating attack scenarios and exploiting cloud configuration vulnerabilities
+* Implemented monitoring to identify insecure configurations and malicious activity 
+* Applied methods learned in the course to harden and secure the environment
+* Designed a DevSecOps pipeline
  
 ## Dependencies and Prerequisites
  
 ### Access to AWS account  
-Students will need to use their personal AWS accounts.  Udacity will provide a $100 credit for any usage costs. If project instructions are followed we do not anticipate usage costs to exceed this amount.
+In order to work this project you will  need to use your  personal AWS account. If project instructions are followed we do not anticipate usage costs to exceed this amount.
  
 ### Installation of the AWS CLI and Local Setup of AWS API keys
 Instructions and examples in this project will make use of the AWS CLI in order to automate and reduce time and complexity.
@@ -30,7 +30,7 @@ You will need to clone or download [this GitHub repo](https://github.com/udacity
 * **E1T4.txt** - Text file identifying 2 poor security practices with justification. 
  
 ### Task 1:  Review Architecture Diagram
-In this task, the objective is to familiarize yourself with the starting architecture diagram. An architecture diagram has been provided which reflects the resources that will be deployed in your AWS account.
+In this task, the objective is to familiarize  with the starting architecture diagram. An architecture diagram has been provided which reflects the resources that will be deployed in your AWS account.
  
 The diagram file, title `AWS-WebServiceDiagram-v1-insecure.png`, can be found in the _starter_ directory in this repo.
  
